@@ -141,8 +141,8 @@ export function buildProjectGraph(): ProjectGraph {
 
 export const demoProject: Project = {
   id: "project-1",
-  name: "Project Knowledge OS",
-  summary: "A knowledge-first system that preserves project memory, decisions, and implementation context.",
+  name: "ContextForge",
+  summary: "ContextForge preserves project memory, decisions, and implementation context.",
   status: "active",
   createdAt: "2026-06-10T00:00:00.000Z",
 };
@@ -263,8 +263,8 @@ export const demoRepositories: Repository[] = [
   {
     id: "repo-1",
     projectId: demoProject.id,
-    name: "project-knowledge-os",
-    url: "https://github.com/example/project-knowledge-os",
+    name: "contextforge",
+    url: "https://github.com/example/contextforge",
   },
 ];
 

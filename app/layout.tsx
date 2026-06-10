@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Project Knowledge OS",
+  title: "ContextForge",
   description: "AI-native project memory and knowledge management for software projects.",
 };
 

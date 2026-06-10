@@ -1,6 +1,6 @@
 # Product Breakdown
 
-Project Knowledge OS should be built as a knowledge platform with a supporting execution layer. The core value is the project knowledge graph; tasks, delivery views, and Git linkage sit on top of that graph rather than replacing it.
+ContextForge should be built as a knowledge platform with a supporting execution layer. The core value is the project knowledge graph; tasks, delivery views, and Git linkage sit on top of that graph rather than replacing it.
 
 Recommended stack for v1:
 

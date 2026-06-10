@@ -1,6 +1,8 @@
 # Project Vision
 
-Project Knowledge OS is an AI-native project memory, context, planning, and knowledge management system for software projects. It unifies fragmented project knowledge into a durable knowledge graph so teams can preserve intent, explain decisions, and recover context over time.
+git branch -M main
+git remote add origin https://github.com/devendrahere/ContextForge.git
+git push -u origin main
 
 # Core Philosophy
 
@@ -172,4 +174,4 @@ The domain model should preserve stable knowledge and the history of change. Eve
 
 # Future Vision
 
-Project Knowledge OS should evolve into the system of record for software project memory. Over time it can become the place where project intent, architecture, research, decisions, implementation history, and documentation stay connected from idea to maintenance.
+ContextForge should evolve into the system of record for software project memory. Over time it can become the place where project intent, architecture, research, decisions, implementation history, and documentation stay connected from idea to maintenance.

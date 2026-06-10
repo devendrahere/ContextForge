@@ -1,6 +1,6 @@
-# Project Knowledge OS
+# ContextForge
 
-A Next.js prototype for an AI-native project memory system.
+An AI-native Next.js prototype for durable project knowledge and traceability.
 
 ## Run locally
 
